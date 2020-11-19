@@ -1,4 +1,4 @@
-# Resources for learning about GraphQL
+# Resources for learning GraphQL
 
 ## Blog posts, articles etc.
 
@@ -23,3 +23,4 @@
 ## Misc.
 
 - [awesome-graphql (community maintained collection of libraries and resources)](https://github.com/chentsulin/awesome-graphql)
+- [How to GraphQL](https://www.howtographql.com/)
